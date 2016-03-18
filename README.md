@@ -1,1 +1,3 @@
 # node-webpack
+
+npm start
